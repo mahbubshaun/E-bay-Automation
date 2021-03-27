@@ -4,7 +4,7 @@
 
 The user wanted an automated solution that can find out a suitable listing with keywords and message the poster.
 
-### Test Cases to automate:
+### Steps to automate:
 
 * Calculate the total number of listings.
 * Check for such listing that matches a given keyword
